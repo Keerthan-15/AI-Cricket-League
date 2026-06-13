@@ -1,0 +1,6 @@
+{
+  "name": "AI Cricket League",
+  "description": "An automated cricket franchise league simulator. Manage custom squads, generate schedules, simulate live AI commentaries, and track statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
